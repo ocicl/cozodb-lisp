@@ -5,5 +5,5 @@ A lisp wrapper for Cozodb
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/pegesund/cozodb-lisp.git |
 | commit  | dd14ef9                                         |
-| systems | cozodb-lisp                                     |
+| systems | cozodb                                          |
 |---------+-------------------------------------------------|
